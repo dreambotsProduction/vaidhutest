@@ -32,7 +32,13 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
                 text="💬 Support Group", url="https://t.me/dangerbots"
             ),                       
         ],
-        
+        [
+            InlineKeyboardButton(
+                text="🔗 Deploy your own bot", url="https://github.com/dreambotsProduction/vaidhutest"
+            ),                                  
+        ]
+    ]
+)
 
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
@@ -53,7 +59,13 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
                 text="💬 Support Group", url="https://t.me/dangerbots"
             ),                       
         ],
-        
+        [
+            InlineKeyboardButton(
+                text="🔗 Deploy your own bot", url="https://github.com/dreambotsProduction/vaidhutest"
+            ),                                  
+        ]
+    ]
+)
 
 COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
     [   [
