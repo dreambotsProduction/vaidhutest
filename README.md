@@ -3,7 +3,7 @@
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TechShreyash/SiestaXMusic">SiestaXMusic</a>. All credits goes to devs of <a href="https://github.com/TechShreyash/SiestaXMusic/graphs/contributors">SiestaXMusic</a>.</h3>
 
 
-# AviaxMusic
+# VAIDHEHI Music
 
 [VAIDHEHI Music](https://github.com/dreambotsProduction/vaidhutest) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
