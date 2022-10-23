@@ -68,7 +68,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text="🏠 Support",
-                url="https://telegram.dog/TeamTrickyYash",
+                url="https://telegram.dog/dangerbots",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
@@ -123,7 +123,7 @@ def stream_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text="🏠 Support",
-                url="https://telegram.dog/TeamTrickyYash",
+                url="https://telegram.dog/dangerbots",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
