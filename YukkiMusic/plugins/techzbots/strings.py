@@ -26,19 +26,13 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TrickyYash"
+                text="📣 Updates Channel", url="https://t.me/danger_bots"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TeamTrickyYash"
+                text="💬 Support Group", url="https://t.me/dangerbots"
             ),                       
         ],
-        [
-            InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
-            ),                                  
-        ]
-    ]
-)
+        
 
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
@@ -53,19 +47,13 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TrickyYash"
+                text="📣 Updates Channel", url="https://t.me/danger_bots"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TeamTrickyYash"
+                text="💬 Support Group", url="https://t.me/dangerbots"
             ),                       
         ],
-        [
-            InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
-            ),                                  
-        ]
-    ]
-)
+        
 
 COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
     [   [
